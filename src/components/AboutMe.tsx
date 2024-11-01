@@ -22,7 +22,7 @@ export const AboutMe = () => {
                             <p className="text-justify md:text-left md:text-lg  mx-auto md:mx-0 text-white/40 lg:text-xl mt-4">
                                 I&apos;ve designed multiple web & mobile experiences for multi-cross-platform devices from desktop to mobile, 
                                 etc. I&apos;ve worked with small agencies and also with medium-sized companies. I previously worked with 
-                                Liferay India Pvt Ltd large sized product based company, Pinnacle IT Solutions small startup. Currently I'm designing 
+                                Liferay India Pvt Ltd large sized product based company, Pinnacle IT Solutions small startup. Currently I&apos;m designing 
                                 aesthetic and functional solutions for Pinnacle within the invest team, to enhance financial accessibility 
                                 and understanding for Indian users.
                             </p>
