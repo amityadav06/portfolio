@@ -69,7 +69,7 @@ export const HeroSection = () => {
             </a>
             <button className='inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl'>
               <span>👊</span>
-              <span className='font-semibold'>Let's connect</span>
+              <span className='font-semibold'>Let&apos;s connect</span>
             </button>
           </div>
         </div>
